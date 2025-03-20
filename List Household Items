@@ -5,6 +5,9 @@ string[] householdItems =
   "Lamp"
   "Sofa"
   "Television" 
+
+
+  "AC"
 }
 
         Console.WriteLine("List of Household Items:");
