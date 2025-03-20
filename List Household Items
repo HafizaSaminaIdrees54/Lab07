@@ -4,7 +4,10 @@ string[] householdItems =
   "Chair"
   "Lamp"
   "Sofa"
-  "Television" 
+  "Television"
+
+
+  "Bed"
 }
 
         Console.WriteLine("List of Household Items:");
