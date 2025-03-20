@@ -1,0 +1,16 @@
+string[] householdItems = 
+{ 
+  "Table"
+  "Chair"
+  "Lamp"
+  "Sofa"
+  "Television" 
+}
+
+        Console.WriteLine("List of Household Items:");
+        foreach (string item in householdItems)
+        {
+            Console.WriteLine("- " + item);
+        }
+    }
+}
